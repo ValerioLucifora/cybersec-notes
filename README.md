@@ -19,7 +19,7 @@ Puoi usarli, condividerli e adattarli — basta citare l'autore.
 These notes are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 You can use, share, and adapt them — just credit the author.
  
-→ [Leggi la licenza completa / Read full license](./LICENSE)
+→ [Leggi la licenza completa / Read full license](./LICENSE.md)
  
 ---
  
