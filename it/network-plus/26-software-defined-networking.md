@@ -1,4 +1,4 @@
-# 26 — Software Designed Networking (SND)
+# 26 — Software Defined Networking (SDN)
 
 > 📚 **Corso:** CompTIA Network+ (N10-009)
 > 
