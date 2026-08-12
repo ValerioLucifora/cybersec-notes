@@ -2,15 +2,7 @@
 Cybersecurity learning notes — CompTIA Network+, CompTIA Security+, Linux, Python, Traffic Analysis, Git, ELK, Cloud Platforms, Ethical Hacking. Available in Italian and English. Updated in real time as I study.
 
 ---
- 
-## 📖 Come sono scritti gli appunti
- 
-Gli appunti italiani sono scritti in **prosa scorrevole**, pensati per la recitazione orale e condensati rispetto al materiale originale. La terminologia tecnica rimane in inglese.
- 
-Gli appunti inglesi sono traduzioni fedeli di quelli italiani, revisionati per correttezza tecnica e logica.
- 
----
- 
+
 ## 📜 Licenza / License
  
 Questi appunti sono distribuiti sotto licenza **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
